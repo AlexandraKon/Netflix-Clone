@@ -23,6 +23,8 @@ const Main = () => {
         }
     }
 
+    console.log("Netflix-Clone by Alexandra Kononenko :)");
+    
   return (
     <div className='w-full h-[550px] text-white'>
         <div className='w-full h-full'>

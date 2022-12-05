@@ -2,8 +2,8 @@
 
 
 
-### Link to access:
+## Link to access
 https://netflix-clone-alexandra.web.app/ 
 
-### Technologies used:
+## Technologies used
 React JS - Tailwind CSS - Firebase

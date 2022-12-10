@@ -1,6 +1,5 @@
 # Netflix - Clone 
 This application is a Netflix Clone, in which the user can register and log into his account. Also inside the application, the user can save movies.
-
 When the user is logged into the account, all the movies that have been added to favorites are displayed in the upper right corner of the page.
 
 

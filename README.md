@@ -15,6 +15,21 @@ https://netflix-clone-alexandra.web.app/
 ## Technologies used
 React JS - Tailwind CSS - Firebase
 
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
+
+``` bash
+# Install dependencies (only for first time)
+npm i
+
+# Serve at localhost:1234
+npm run start
+
+# Build for production in the dist/ directory
+npm run build
+```
+
 ### Home
 ![image](https://user-images.githubusercontent.com/92441983/206877281-7ac01d7e-1649-40c4-83a0-76e941f1b800.png)
 
